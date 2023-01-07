@@ -11,7 +11,7 @@ namespace ExpandLineSelection
         public const string Name = "Expand Line Selection";
         public const string Description = @"A reproduction of the Expand Line Selection command implemented in VSCode.";
         public const string Language = "en-US";
-        public const string Version = "1.0";
+        public const string Version = "1.0.1";
         public const string Author = "Kazuma Ito";
         public const string Tags = "select";
     }

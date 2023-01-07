@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ExpandLineSelection.cd67f2d4-d918-491d-aa60-4e5d102fc3ab" Version="1.0" Language="en-US" Publisher="Kazuma Ito" />
+        <Identity Id="ExpandLineSelection.cd67f2d4-d918-491d-aa60-4e5d102fc3ab" Version="1.0.1" Language="en-US" Publisher="Kazuma Ito" />
         <DisplayName>Expand Line Selection</DisplayName>
         <Description xml:space="preserve">A reproduction of the Expand Line Selection command implemented in VSCode.</Description>
         <Icon>Resources\icon.png</Icon>
